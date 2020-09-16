@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitaasheth/excercises.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Ankita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitaasheth/excercises/issues"
+  },
+  "homepage": "https://github.com/ankitaasheth/excercises#readme"
+}
